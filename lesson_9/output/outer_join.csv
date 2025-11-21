@@ -1,0 +1,8 @@
+sample_id,total_proteins,unique_peptides,contamination_level,rin_score,pcr_duplication,mapping_rate,has_mass_spec_results,has_quality_metrics
+Sample_1,2450.0,15200.0,0.02,,,,True,False
+Sample_2,2310.0,14800.0,0.05,8.5,0.12,0.95,True,True
+Sample_3,2540.0,15600.0,0.03,7.2,0.18,0.87,True,True
+Sample_4,2480.0,15400.0,0.01,9.1,0.09,0.96,True,True
+Sample_7,2600.0,16200.0,0.04,,,,True,False
+Sample_5,,,,6.8,0.25,0.82,False,True
+Sample_8,,,,8.9,0.11,0.94,False,True
