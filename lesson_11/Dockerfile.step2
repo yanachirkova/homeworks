@@ -1,0 +1,5 @@
+FROM r-base:latest
+WORKDIR /work
+RUN R -e "install.packages('dplyr')"
+COPY script.R /work/script.R
+USER root
