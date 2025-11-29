@@ -1,0 +1,4 @@
+"sample_id","cell_type","treatment","replicate","concentration_uM","total_proteins","unique_peptides","contamination_level"
+"Sample_5","HeLa","Drug_A",2,10,NA,NA,NA
+"Sample_6","Primary","Drug_C",1,100,NA,NA,NA
+"Sample_7",NA,NA,NA,NA,2600,16200,0.04
