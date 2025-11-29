@@ -1,0 +1,6 @@
+"sample_id","total_proteins","unique_peptides","contamination_level"
+"Sample_1",2450,15200,0.02
+"Sample_2",2310,14800,0.05
+"Sample_3",2540,15600,0.03
+"Sample_4",2480,15400,0.01
+"Sample_7",2600,16200,0.04

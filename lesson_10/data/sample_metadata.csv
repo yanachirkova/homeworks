@@ -1,0 +1,7 @@
+"sample_id","cell_type","treatment","replicate","concentration_uM"
+"Sample_1","HEK293","Control",1,0
+"Sample_2","HeLa","Drug_A",1,10
+"Sample_3","HEK293","Drug_B",1,50
+"Sample_4","U2OS","Control",2,0
+"Sample_5","HeLa","Drug_A",2,10
+"Sample_6","Primary","Drug_C",1,100
